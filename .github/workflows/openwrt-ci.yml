@@ -17,11 +17,11 @@ on:
         required: false
         default: 'false'
 
-on:
-  schedule:
-    - cron: 0 20 * * *
-  release:
-    types: [published]
+#on:
+#  schedule:
+#    - cron: 0 20 * * *
+#  release:
+#    types: [published]
 
 jobs:
 
