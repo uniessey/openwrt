@@ -1,4 +1,4 @@
-src-git lenpackages packages https://github.com/coolsnowwolf/openwrt
+src-git lenpackages https://github.com/coolsnowwolf/openwrt
 src-git luci https://github.com/coolsnowwolf/luci
 src-git oldpackages https://git.openwrt.org/feed/packages.git
 src-git oldluci https://git.openwrt.org/project/luci.git
